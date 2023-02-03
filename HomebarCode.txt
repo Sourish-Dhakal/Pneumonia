@@ -1,0 +1,23 @@
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="PneumoniaStyles.css">
+</head>
+<body>
+    <header id="homebar">
+        <ul>
+            <li><a href="index.html">Homepage</a></li>
+            <li style="padding-right:40px;"><a href="PneumoniaRespiratory.html">Respiratory System</a></li>
+            <li><a href="PneumoniaCause.html">Cause</a></li>
+            <li><a href="PneumoniaSymptoms.html">Symptoms</a></li>
+            <li><a href="PneumoniaImpact.html">Impact</a></li>
+            <li style="padding-right:40px;"><a href="PneumoniaTreatment.html">Treatment/ Prevention</a></li>
+            <li><a href="PneumoniaFacts.html">Fun Facts</a></li>
+        </ul>
+    </header>
+
+<script src="PneumoniaScripts.js"></script>
+</body>
+</html>
